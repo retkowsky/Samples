@@ -1,0 +1,101 @@
+slice_age,top_has_optinsms,optin_email_kiabi,nb_child,nb_tckt_12rm,net_sales_tckt_12rm,nb_order_eresa_12rm,rfm_cluster,cluster_style,customer_activity_xcanal_12rm
+<= 65,0,1.0,0,1,40.0,0,Escaping customers,basic_men,0
+<= 60,0,,0,3,73.95,0,Unconfirmed customers,fashion_women,0
+<= 50,0,0.0,2,2,20.0,0,Unconfirmed customers,basic_men,0
+<= 55,0,1.0,3,4,122.5,0,Unconfirmed customers,fashion_women,0
+<= 60,0,,0,1,114.5,0,Escaping customers,basic_women,0
+> 70,1,,0,1,12.0,0,Escaping customers,fashion_women,0
+<= 50,0,1.0,1,1,52.0,0,Escaping customers,fashion_men,0
+<= 60,0,1.0,0,3,150.95,0,Slowing-down good customers,fashion_women,0
+<= 65,1,1.0,0,1,38.0,0,Unconfirmed customers,basic_men,0
+DTN non renseignée,0,0.0,0,1,7.5,0,Escaping customers,fashion_women,0
+<= 50,0,,1,8,244.0,0,Very good customers,mixed_family,0
+<= 50,0,0.0,1,2,71.0,0,Slowing-down good customers,fashion_family,0
+<= 35,1,1.0,1,1,44.9,0,Average customers,mainly_kids,1
+<= 45,0,0.0,2,1,41.2,0,Slowing-down good customers,mainly_kids,1
+<= 45,1,1.0,0,4,180.2,0,Slowing-down good customers,basic_mum,1
+<= 60,0,1.0,2,2,12.9,0,Escaping customers,basic_women,0
+<= 30,0,0.0,1,1,15.0,0,New customers,mainly_kids,1
+<= 35,0,0.0,1,1,132.8,0,Good customers,mainly_kids,1
+<= 30,0,1.0,0,5,96.5,0,Very good customers,basic_mum,1
+<= 50,0,1.0,1,3,230.9,0,Unconfirmed customers,fashion_family,0
+DTN non renseignée,0,1.0,0,1,57.5,0,Unconfirmed customers,mainly_kids,0
+<= 45,0,1.0,3,7,387.5,0,Slowing-down good customers,basic_family,0
+<= 35,1,1.0,1,10,214.7,0,Slowing-down good customers,mixed_family,0
+<= 40,1,,0,5,53.0,0,Slowing-down good customers,mainly_kids,0
+<= 45,0,0.0,0,6,265.74,0,Very good customers,mixed_family,0
+<= 25,0,0.0,0,1,22.8,0,New customers,fashion_women,0
+<= 30,1,,0,12,159.65,0,Best customers,basic_mum,0
+<= 40,1,1.0,2,2,92.0,0,Average customers,basic_mum,0
+DTN non renseignée,0,0.0,0,4,54.0,0,Unconfirmed customers,fashion_women,0
+<= 65,0,,0,3,30.6,0,Slowing-down good customers,basic_women,0
+<= 50,1,1.0,0,8,313.65,0,Slowing-down good customers,fashion_women,0
+> 70,0,0.0,0,1,29.0,0,Escaping customers,fashion_women,0
+<= 70,0,,0,3,51.0,0,Unconfirmed customers,basic_women,0
+DTN non renseignée,0,,2,1,147.1,0,Escaping customers,basic_women,0
+<= 20,0,1.0,0,6,34.8,0,Escaping customers,basic_women,0
+<= 45,0,,2,3,161.5,0,Slowing-down good customers,basic_mum,0
+DTN non renseignée,0,1.0,0,4,35.0,0,Slowing-down good customers,basic_mum,0
+> 70,0,1.0,0,1,4.2,0,Unconfirmed customers,fashion_women,0
+<= 40,0,1.0,0,4,210.9,0,Good customers,mainly_kids,0
+<= 40,0,1.0,0,1,11.0,0,Unconfirmed customers,mainly_kids,0
+<= 35,1,1.0,0,9,147.25,0,Best customers,fashion_family,0
+<= 50,0,0.0,0,2,72.0,0,Slowing-down good customers,basic_mum,0
+<= 45,0,,0,5,80.9,0,Good customers,basic_mum,0
+<= 60,0,,3,3,149.0,0,Average customers,mixed_family,0
+<= 50,1,1.0,2,3,200.65,0,Average customers,basic_mum,0
+DTN non renseignée,0,,0,4,59.65,0,Unconfirmed customers,fashion_family,0
+<= 65,0,,0,6,84.8,0,Very good customers,basic_mum,0
+<= 25,1,1.0,1,9,246.27,0,Slowing-down good customers,basic_family,0
+<= 55,0,,0,8,252.05,0,Very good customers,basic_women,0
+<= 40,0,,0,1,33.0,0,Unconfirmed customers,mainly_kids,0
+<= 45,0,1.0,0,12,425.39,0,Best customers,basic_mum,0
+<= 30,0,1.0,1,3,127.5,0,Slowing-down good customers,basic_men,0
+DTN non renseignée,0,0.0,0,2,13.5,0,Slowing-down good customers,mainly_kids,0
+<= 60,0,,1,6,252.5,0,Slowing-down good customers,basic_women,0
+<= 30,0,1.0,0,3,111.9,0,Slowing-down good customers,basic_mum,0
+> 70,0,,0,1,20.0,0,Unconfirmed customers,fashion_men,0
+DTN non renseignée,0,1.0,0,2,33.0,0,Escaping customers,mainly_kids,0
+DTN non renseignée,0,,0,2,75.0,0,Slowing-down good customers,fashion_men,0
+<= 40,0,1.0,0,2,111.0,0,Slowing-down good customers,basic_family,0
+<= 55,0,,2,1,25.0,0,Escaping customers,fashion_men,0
+DTN non renseignée,0,0.0,0,1,57.2,0,Escaping customers,basic_mum,0
+<= 65,0,,0,2,49.0,0,Unconfirmed customers,basic_women,0
+<= 40,0,1.0,0,3,92.35,0,Average customers,mainly_kids,0
+<= 60,1,1.0,4,2,42.0,0,Unconfirmed customers,fashion_men,0
+<= 50,0,1.0,3,2,53.0,0,Escaping customers,mainly_kids,0
+<= 70,0,1.0,0,5,584.97,0,Slowing-down good customers,mixed_family,0
+<= 50,0,1.0,0,4,174.25,0,Unconfirmed customers,mixed_family,0
+<= 45,1,1.0,0,5,91.0,0,Unconfirmed customers,basic_family,0
+<= 35,1,0.0,3,3,95.35,0,Unconfirmed customers,fashion_women,0
+<= 40,0,,0,4,185.0,0,Unconfirmed customers,basic_family,0
+<= 60,1,1.0,0,2,309.0,0,Unconfirmed customers,basic_men,0
+<= 35,0,0.0,0,3,67.0,0,Slowing-down good customers,basic_mum,1
+<= 45,0,1.0,0,4,261.5,0,Slowing-down good customers,fashion_family,0
+<= 30,0,0.0,1,3,193.0,0,Slowing-down good customers,basic_mum,1
+<= 60,1,1.0,0,1,13.75,0,Unconfirmed customers,fashion_men,0
+<= 30,0,0.0,0,4,335.61,0,Good customers,fashion_family,1
+<= 35,0,0.0,1,3,353.15,0,Average customers,basic_family,0
+<= 25,0,0.0,1,3,184.4,0,Unconfirmed customers,mainly_kids,1
+<= 30,0,0.0,2,1,47.0,0,Unconfirmed customers,mainly_kids,0
+<= 45,0,0.0,0,2,43.0,0,Escaping customers,mainly_kids,0
+<= 35,0,,0,1,21.95,0,Unconfirmed customers,mainly_kids,0
+DTN non renseignée,0,,0,3,76.0,0,Unconfirmed customers,basic_women,0
+<= 30,0,1.0,0,1,20.0,0,Unconfirmed customers,mainly_kids,0
+DTN non renseignée,0,,0,2,70.65,0,Escaping customers,mixed_family,0
+<= 40,0,1.0,2,1,12.0,0,Unconfirmed customers,mainly_kids,0
+<= 45,0,1.0,0,2,79.0,0,Slowing-down good customers,basic_women,0
+<= 65,0,,0,2,75.88,0,Escaping customers,fashion_family,0
+<= 55,1,1.0,0,8,247.65,0,Very good customers,basic_family,0
+<= 50,0,,0,1,4.0,0,Escaping customers,mainly_kids,0
+<= 50,0,,0,5,179.9,0,Slowing-down good customers,basic_women,0
+> 70,0,0.0,0,4,142.0,0,Slowing-down good customers,mixed_family,0
+> 70,1,,0,13,324.65,0,Slowing-down good customers,basic_family,0
+<= 45,0,,1,1,14.0,0,Escaping customers,mainly_kids,0
+<= 45,0,1.0,2,8,340.6,0,Very good customers,fashion_family,0
+DTN non renseignée,0,,0,1,45.09,0,Unconfirmed customers,mainly_kids,0
+<= 55,0,,1,4,316.2,0,Good customers,fashion_family,0
+<= 55,1,0.0,1,5,79.4,0,Slowing-down good customers,mixed_family,0
+<= 55,1,1.0,0,1,60.9,0,Reactivated customers,basic_women,0
+<= 40,1,1.0,1,1,26.0,0,Escaping customers,mainly_kids,0
+<= 45,0,1.0,0,2,95.0,0,New customers,mainly_kids,0
